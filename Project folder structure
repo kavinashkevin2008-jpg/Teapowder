@@ -1,0 +1,16 @@
+tea-thool-website
+│
+├── backend
+│   ├── server.js
+│   ├── orders.csv
+│   └── package.json
+│
+├── frontend
+│   ├── index.html
+│   ├── cart.html
+│   ├── checkout.html
+│   ├── contact.html
+│   ├── style.css
+│   └── script.js
+│
+└── README.md
